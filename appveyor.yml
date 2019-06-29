@@ -16,7 +16,7 @@ install:
     # Output useful info for debugging
     - node --version
     - npm --version
-    # run test
+    # run tests
     - npm test
 
     # Don't actually build.
