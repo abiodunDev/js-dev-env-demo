@@ -1,0 +1,9 @@
+body{
+      background-color:teal;
+      font-family: 'Courier New', Courier, monospace;
+      font-style:italic;
+}
+
+table, th {
+    padding: 5px;
+}
